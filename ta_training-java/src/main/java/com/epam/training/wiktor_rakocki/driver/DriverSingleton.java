@@ -2,13 +2,8 @@ package com.epam.training.wiktor_rakocki.driver;
 
 import com.epam.training.wiktor_rakocki.driver.strategy.DriverStrategy;
 import com.epam.training.wiktor_rakocki.driver.strategy.DriverStrategyFactory;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
-import java.util.stream.Stream;
 
 public class DriverSingleton {
 

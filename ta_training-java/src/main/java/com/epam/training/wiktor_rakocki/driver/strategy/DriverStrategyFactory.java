@@ -1,7 +1,5 @@
 package com.epam.training.wiktor_rakocki.driver.strategy;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.edge.EdgeDriver;
 
 public class DriverStrategyFactory {
     public static DriverStrategy getDriverStrategy(String browser) {
