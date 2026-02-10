@@ -48,10 +48,10 @@ Locators: XPath;
 
 Test Runner: JUnit;
 
-[Optional] Patterns: 1) Singleton; 2) Adapter; 3) Strategy;
+Patterns: 1) Singleton; 2) Adapter; 3) Strategy;
 
-[Optional] Test automation approach: BDD;
+Test automation approach: BDD;
 
 Assertions: Hamcrest;
 
-[Optional] Loggers: SLF4J.
+Loggers: SLF4J.
